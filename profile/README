@@ -12,7 +12,7 @@ a Chinese term meaning 'swift' or 'fast'.
 Our goal is to make FeXun a no-code engine geared
 towards storytellers to create beautiful visual novels
 quickly and efficiently. Using an intuitive interface
-built with Tauri, you'll never have to deal with
+built with Dioxus, you'll never have to deal with
 code or anything similar.
 
 Utilizing the power of Rust, you can implement advanced
